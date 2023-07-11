@@ -1,0 +1,39 @@
+
+    
+    .Butoo{
+      color: rgb(255, 255, 255);
+      background-color: rgb(255, 0, 0);
+      border-radius: 8px;
+      border-color:rgb(255, 0, 0);
+      width: 2cm;
+     
+    }
+    
+    .order-detail-summury{
+      margin-top: 5rem;
+      height: 70vh;
+      width: 45vw;
+      background-color: #cff1ef;
+      margin-left: 4rem;
+    }
+
+   
+    .summury{
+      width: 700px;
+      height: 250px;
+      border: none;
+      background-color: #e7fffd;
+      color: #1e1c1c;
+      font-size: 16px;
+      border-radius: 10px;
+    }
+    
+    .forms{
+    width:400px ;
+    color: rgb(0, 0, 0);
+   
+    }
+  
+    .totall{
+      color: rgb(197, 47, 47);
+    }

@@ -1,0 +1,57 @@
+
+  .orderH{
+  
+  color: rgb(46, 45, 47);
+  float:left;
+  font-style:oblique;
+  
+  }
+  .order-summury{
+    margin-top: 5rem;
+    height: 70vh;
+    width: 30vw;
+    background-color: #e5faf8;
+  }
+
+  .Butoo{
+    color: rgb(255, 255, 255);
+    background-color: rgb(179, 5, 5);
+    border-radius: 8px;
+    border-color:rgb(255, 0, 0);
+    margin-left: 25%;
+    width:13rem;
+    height: 3rem;
+  }
+  
+  
+  .container{
+    width: 300px;
+    height: 20px;
+    border: none;
+    background-color: #ffffff;
+    color: #1e1c1c;
+    font-size: 16px;
+    border-radius: 40px;
+    
+  }
+  
+  
+  .summury{
+    width: 350px;
+    height: 270px;
+    border: none;
+    background-color: #bbdbc5;
+    color: #1e1c1c;
+    font-size: 16px;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  .widthth{
+  width:360px ;
+  }
+
+  .totall{
+    color: rgb(255, 0, 0);
+  }

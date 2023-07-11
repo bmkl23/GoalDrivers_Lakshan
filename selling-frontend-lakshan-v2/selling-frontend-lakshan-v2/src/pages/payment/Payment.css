@@ -1,0 +1,51 @@
+*{
+    font-family:'poppins', sans-serif;
+    font-size: 14px;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.container{
+ min-height: 100vh;
+ background: #ffffff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-flow: column;
+ padding-bottom: 60px;
+
+}
+
+.container from{
+    background: #adf9f1;
+    border-radius: 5px;
+    box-shadow: 0 10px 15px rgba(0,0,0,1);
+    padding: 20px;
+    width: 600px;
+
+}
+
+.inputBox{
+    margin-top: 20px;
+}
+
+.inputBox span{
+    display: block;
+    color: #010856;
+    padding-bottom: 5px;
+}
+
+.card-holder-input{
+    color: #fc0404;
+}
+
+.inputBox{
+    color: aqua;
+}
+
+
+
+

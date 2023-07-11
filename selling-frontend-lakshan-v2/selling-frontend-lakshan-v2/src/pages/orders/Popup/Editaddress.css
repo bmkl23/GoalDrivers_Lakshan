@@ -1,0 +1,29 @@
+.btk{
+    color: rgb(255, 255, 255);
+    background-color: rgb(20, 60, 220);
+    border-radius: 5px;
+    border-color: rgb(157, 1, 1);
+}
+
+
+.bts{
+    color: rgb(249, 249, 249);
+    background-color: rgb(68, 166, 7);
+    border-radius: 5px;
+    border-color:rgb(37, 91, 1);
+}
+
+.hun{
+    color: rgb(249, 249, 249);
+    background-color: rgb(247, 0, 0);
+    border-radius: 5px;
+    border-color: beige;
+    margin-left: 20%;
+    
+
+}
+
+.hopp{
+    color: rgb(6, 10, 140);
+    font-weight: bold;
+}

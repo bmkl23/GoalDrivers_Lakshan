@@ -1,0 +1,30 @@
+.wool{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.closeb{
+    color: rgb(84, 204, 9);
+    border: none;
+}
+
+.kutoo{
+    background-color: rgb(242, 6, 6);
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    height: 1cm;
+}
+
+.chilan{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 255, 64);
+    border: none;
+    height: 1cm;
+    border-radius: 10px;
+}
+
+.tahnk{
+    color: rgb(255, 3, 3);
+    font-weight:600;
+}
